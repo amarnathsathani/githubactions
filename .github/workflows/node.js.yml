@@ -43,7 +43,7 @@ jobs:
         # Tenant Code displayed in the Profile section of ACCELQ
         tenantCode: "democopy"
         # This ID should come from the CI job you saved in ACCELQ application
-        jobId: "91"
+        jobId: "95"
         # Run Params(optional) should be of the form (Customer Name=John Todd & Customer Id=232)
 #         runParam: # optional
 #         # Proxy Host (optional)
