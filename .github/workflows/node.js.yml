@@ -35,9 +35,9 @@ jobs:
       uses: accelq/accelq-ci-github-actions@v0.2
       with:
         # Your ACCELQ Application URL in the exact following format: https://&lt;hostname&gt;:&lt;port_num&gt;
-        appURL: "tenantadmin@democopy.com"
+        appURL: "https://poc.accelq.io"
         # Your ACCELQ User ID
-        userName: "tenantadmin" 
+        userName: "tenantadmin@democopy.com" 
         # API key available in Profile section of ACCELQ
         apiKey: "8dshi7d2h1aZ7QPTO8JCr825YV4XJLm9"
         # Tenant Code displayed in the Profile section of ACCELQ
