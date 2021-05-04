@@ -45,7 +45,7 @@ jobs:
         # This ID should come from the CI job you saved in ACCELQ application
         jobId: "99"
         # Run Params(optional) should be of the form (Customer Name=John Todd & Customer Id=232)
-#         runParam: # optional
+        runParam: # "qbankadmin","pass123"
 #         # Proxy Host (optional)
 #         proxyHost: # optional
 #         # Proxy Port (optional)
