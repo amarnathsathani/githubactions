@@ -35,7 +35,7 @@ jobs:
       uses: accelq/accelq-ci-github-actions@v0.3
       with:
         # Your ACCELQ Application URL in the exact following format: https://&lt;hostname&gt;:&lt;port_num&gt;
-        appURL: "http://localhost:9090"
+        appURL: "https://c8122d3e6a19.ngrok.io/"
         # Your ACCELQ User ID
         userName: "tenantAdmin@accelq.com" 
         # API key available in Profile section of ACCELQ
@@ -46,7 +46,7 @@ jobs:
         jobId: "5"
         # Run Params(optional) should be of the form (Customer Name=John Todd & Customer Id=232)
 #         runParam: "Username=qbankadmin & Password=pass123 & URL=qbank.accelq.com"
-        # Proxy Host (optional)
-        proxyHost: "c8122d3e6a19.ngrok.io"
-        # Proxy Port (optional)
-        proxyPort: "80"
+#         # Proxy Host (optional)
+#         proxyHost: "c8122d3e6a19.ngrok.io"
+#         # Proxy Port (optional)
+#         proxyPort: "80"
