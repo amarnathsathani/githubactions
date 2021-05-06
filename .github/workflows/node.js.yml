@@ -37,7 +37,7 @@ jobs:
         # Your ACCELQ Application URL in the exact following format: https://&lt;hostname&gt;:&lt;port_num&gt;
         appURL: "http://localhost:9090"
         # Your ACCELQ User ID
-        userName: "tenantadmin@accelq.com" 
+        userName: "tenantAdmin@accelq.com" 
         # API key available in Profile section of ACCELQ
         apiKey: "URWKtueXubRnflB19ey_gUa6vlydFFIWgm6jV4G34qU"
         # Tenant Code displayed in the Profile section of ACCELQ
