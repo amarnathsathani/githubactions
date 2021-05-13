@@ -35,11 +35,11 @@ jobs:
       uses: accelq/accelq-ci-github-actions@v0.1
       with:
         # Your ACCELQ Application URL in the exact following format: https://&lt;hostname&gt;:&lt;port_num&gt;
-        appURL: "http://d216527aca1e.ngrok.io"
+        appURL: "http://5ab2b660d30b.ngrok.io"
         # Your ACCELQ User ID
         userName: "tenantAdmin@accelq.com" 
         # API key available in Profile section of ACCELQ
-        apiKey: "3ZBqBliuiaN2K8m9sFhzIuY4mtluiNYW_Fvm3PV-MM0"
+        apiKey: "CmnEWxxxv7q3LBahgGIstDoDzdT8_Ip_1xLJQmnjBE0"
         # Tenant Code displayed in the Profile section of ACCELQ
         tenantCode: "accelq"
         # This ID should come from the CI job you saved in ACCELQ application
