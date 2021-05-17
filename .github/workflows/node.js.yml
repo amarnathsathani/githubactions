@@ -39,7 +39,7 @@ jobs:
         # Your ACCELQ User ID
         userName: "tenantAdmin@accelq.com" 
         # API key available in Profile section of ACCELQ
-        apiKey: ""
+        apiKey: "CmnEWxxxv7q3LBahgGIstDoDzdT8_Ip_1xLJQmnjBE0"
         # Tenant Code displayed in the Profile section of ACCELQ
         tenantCode: "accelq"
         # This ID should come from the CI job you saved in ACCELQ application
