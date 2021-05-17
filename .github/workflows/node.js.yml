@@ -35,7 +35,7 @@ jobs:
       uses: accelq/accelq-ci-github-actions@v1.0
       with:
         # Your ACCELQ Application URL in the exact following format: https://&lt;hostname&gt;:&lt;port_num&gt;
-        appURL: "http://5ab2b660d30b.ngrok.io"
+        appURL: "http://2912c82959d8.ngrok.io"
         # Your ACCELQ User ID
         userName: "tenantAdmin@accelq.com" 
         # API key available in Profile section of ACCELQ
