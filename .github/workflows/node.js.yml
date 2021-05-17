@@ -46,7 +46,7 @@ jobs:
         jobId: "11"
 #         # Run Params(optional) should be of the form (Customer Name=John Todd & Customer Id=232)
         runParam: "User name=qbankadmin & Pswd=pass123 & App URL=qbank.accelq.com"
-#         # Proxy Host (optional)
-#         proxyHost: "d216527aca1e.ngrok.io"
-#         # Proxy Port (optional)
-#         proxyPort: "80"
+        # Proxy Host (optional)
+        proxyHost: "2912c82959d8.ngrok.io"
+        # Proxy Port (optional)
+        proxyPort: "80"
